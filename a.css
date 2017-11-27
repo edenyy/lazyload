@@ -1,0 +1,13 @@
+.container {
+width:600px;
+margin:0 auto;
+}
+ul li {
+list-style: none;
+float:left;
+margin:10px 10px;
+}
+img {
+width:240px;
+height:180px;
+}
