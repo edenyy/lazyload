@@ -1,2 +1,0 @@
-# lazyload
-lazy render
